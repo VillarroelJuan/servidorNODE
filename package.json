@@ -1,0 +1,18 @@
+{
+    "name": "primer-servidor-node",
+    "version": "1.0.0",
+    "description": "filtra los array segun su tipo y guarda en un txt",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "Keywords": [
+        "Tipo de dato",
+        "Array",
+        "JavaScript",
+        "Txt"
+    ],
+    "author": "Juan Villarroel",
+    "license": "ISC"
+  }
